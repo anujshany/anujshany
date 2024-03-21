@@ -1,9 +1,8 @@
 <h1 align="center">Hi, I'm Anuj Shany 🙋‍♂️ </h1>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anujshany&show_icons=true&hide_border=true&theme=tokyonight" alt="anujshany" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujshany&hide_border=true&theme=tokyonight" alt="anujshany" /> </p>
+<!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anujshany&show_icons=true&hide_border=true&theme=tokyonight" alt="anujshany" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujshany&hide_border=true&theme=tokyonight" alt="anujshany" /> </p>
 <!--
 <p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=anujshany&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="anujshany" /> </p>
 -->
-<br>
 <h1 align="center">Technologies I Know ⚛</h1>
 <div align="center">
   <img title="HTML-5" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
